@@ -30,12 +30,6 @@
 </p>
 
 
-<br />
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/Mohammed-Hamada/count.svg"></img>
-</div>
-
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
