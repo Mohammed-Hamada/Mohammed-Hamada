@@ -2,13 +2,7 @@
 
 <h1>About Me 📌</h1>
 
-- 👋 I am Mohammed Hamada
-- 🌱 I am currently focusing on learning Typescript and React
-<!-- - 🔭 I have 1.5+ years of experince working as a software engineer
-- 💻 I worked as a CTO and co-founder at a local startup
-- 💁‍♂️ I also worked as a teacher asistant at Birzeit unversity
-- 😎 Further more, I taught over 50 people the MERN tech stack!
-- ⚡ Fun fact: Sometimes I LOVE to code 24/7 -->
+I am Mohammed Hamada, a talented Full-Stack web developer adept at contributing to a highly collaborative work environment, finding solutions and determining customer satisfaction. I design and develop web applications across multiple APIs, third-party integrations and databases, I am currently focusing on learning Computer Science topics (DSA, Data Science, Design Patterns, System Design, ...).
 
 <br />
 
