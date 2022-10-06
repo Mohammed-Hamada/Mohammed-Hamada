@@ -7,21 +7,11 @@ I am Mohammed Hamada, a talented Full-Stack web developer adept at contributing 
 <br />
 
 <h2 align="center">Quick Overview 📈</h2>
-  
-  <p align = "center">
- 
-</p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Mohammed-Hamada&count_private=true&theme=dracula&hide_border=true" alt = "Mohammed-Hamada's Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Mohammed-Hamada&count_private=true&theme=dracula&hide_border=true" alt = "Mohammed-Hamada's Rating" width = 400 >
-
 </p>
 
-<p align = "center">
-
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-Hamada&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "Mohammed-Hamada's Languages/Frameworks" width = 400 />
-</p>
 
 
 <br /><br />
@@ -29,7 +19,6 @@ I am Mohammed Hamada, a talented Full-Stack web developer adept at contributing 
 <p align="center">
   <a href = "mailto:mohammed3rbio@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/mohammed-hamada-169056233/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
- 
 </p>
 
 
